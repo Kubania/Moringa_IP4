@@ -5,8 +5,8 @@
 ## Description: Investigative Anlaysis on Understanding the Usage of Electric Cars
 
   ### Setup and Installation Requirements
-    #### The Electric Car Dataset
-    #### Google Collaboratory or Jupyter Notebooks
+    The Electric Car Dataset
+    Google Collaboratory or Jupyter Notebooks
 
 
   ### Methodology
@@ -18,5 +18,5 @@
             Recommendation
             Evaluation
   ### Technologies Used
-    ### Python
-    ### Panda libraries
+    Python
+    Panda libraries
